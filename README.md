@@ -1,27 +1,11 @@
-# PHP-CRUD-MVC-PDO with AJAX
-This project contains basic structure for architecture [MVC (Model, view & controller)](https://si.ua.es/es/documentacion/asp-net-mvc-3/1-dia/modelo-vista-controlador-mvc.html) implement in the [language of programmation PHP](https://www.php.net/) with [management of database mysql](https://www.mysql.com/).   
+Empresa de Autos
+UIII Act 1 MVC
+Daniel Alejandro Garcia Holguin
 
-![Example MVC](https://www.c-sharpcorner.com/article/mvc-beginners-tutorial-with-bootstrap/Images/image001.png)  
+Tabla "autos" Base de Datos "bd_lotedecarros"
+![BD](https://github.com/DAHolguin/UIII-Act-1-MVC-/assets/143548047/8649f07b-1e14-45f6-83c6-0f8e30d90d38)
 
-## Installation & test 📥
-To the right functioning you need install services of Apache and Mysql or install a local server for example.
-  
-* [xampp](https://www.apachefriends.org/download.html)  
-* [wampserver](http://www.wampserver.com/en/#download-wrapper)
+Menu Pricipal
+![Menu Pricipal](https://github.com/DAHolguin/UIII-Act-1-MVC-/assets/143548047/e1ed5618-a8ae-4628-ad4c-5e23c1c0ee0c)
 
-Execute services of Apache and Mysql.
 
-### Database 💾
-Once executed apache & mysql service you need `create database 'crud'` and import `.sql file` located in folder `SQL DB/crud.sql`. 
-
-### Test 🧪 
-To test project you need to go to the URL of the local server is usually `http://localhost/` o `http://127.0.0.1/`
-
-#### Warning ⚠️
-**_This is an old project that contains some good development practices but can be greatly improved._**
-
-## Example
-You can see a better implementation of this structure in this repository [php7-architecture-MVC-CRUD](https://github.com/ofaaoficial/php7-architecture-MVC-CRUD)
-
-## License 🔥
-Copyright © 2017-present [Oscar Amado](https://github.com/ofaaoficial) 🧔
